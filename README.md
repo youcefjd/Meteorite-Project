@@ -25,4 +25,5 @@ Were there outliers, and how did you handle them?
 
 
 
+#### The cleaning process can be found in a two separate PDF files in this repository
 
