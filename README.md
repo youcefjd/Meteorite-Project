@@ -1,5 +1,5 @@
 # Meteorite-Project
-Working on a dataset about meteorite landings provided by the NASA
+Working on a dataset about meteorite landings provided by the NASA. The project will be divided in numerous sections. The first section is Data Wrangling.
 
 
 ## I.	Data Wrangling  
